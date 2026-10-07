@@ -1,2 +1,2 @@
 # Delta_GitHub
-Basic GitHub
+Basics of Git and Github 
